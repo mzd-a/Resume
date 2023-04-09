@@ -1,0 +1,262 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+div.contact-info {
+    background-color: #CFF5E7;
+    height: 75px;
+    padding: 10px 0 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+form {
+    width: 0;
+}
+
+button {
+    background: transparent;
+    border: 0;
+}
+
+img.mail-icon {
+    bottom: 32.5px;
+    height: 30px;
+    position: absolute;
+    right: 130px;
+}
+
+
+img.linkedin-icon {
+    bottom: 32.5px;
+    height: 30px;
+    position: absolute;
+    right: 5px;
+}
+
+
+
+h1 {
+    color: #0b407b;
+}
+
+h2 {
+    color: #1371d8;
+    font-family: Montserrat;
+}
+
+h3 {
+    color: #318bed;
+    font-family: Varela Round;
+    font-weight: normal;
+}
+
+h3.contact-me {
+    bottom: 35.5px;
+    font-size: 1.25rem;
+    height: 20px;
+    margin: 0;
+    position: absolute;
+    right: 150px;
+    width: 10%;
+}
+
+div.top-container {
+    background-color: #f5fefd;
+    height: 250px;
+    margin: 0;
+    padding: 10px 0 10px 0;
+    position: relative;
+    text-align: left;
+}
+
+img.profile-photo {
+    border-radius: 50%;
+    float: left;
+    height: 80%;
+    padding: 30px;
+}
+
+span {
+    font-weight: bolder;
+}
+
+h1.name {
+    font-family: Michroma;
+    font-size: 50px;
+}
+
+h2.intro {
+    font-family: Raleway;
+    font-weight: normal;
+    width: 80%;
+}
+
+p {
+    font-family: Varela Round;
+    margin: 10px 0;
+}
+
+hr {
+    border-top: dotted 5px #8fc0f5;
+    left: 50%;
+    margin: 0;
+    width: 10%;
+}
+
+hr.top-container-hr {
+    bottom: 0;
+    position: absolute;
+}
+
+div.work-exp {
+    height: 850px;
+    position: relative;
+}
+
+div.exp-row {
+    height: 200px;
+    margin-bottom: 50px;
+    position: relative;
+    top: 120px;
+}
+
+h2.work-exp {
+    font-size: 2rem;
+    left: 30px;
+    position: absolute;
+}
+
+h3.company-name {
+    font-size: 1.5rem;
+    left: 180px;
+    margin: 0;
+    position: absolute;
+    top: 0px;
+}
+
+img.hmcl-logo {
+    height: 80%;
+    left: 30px;
+    position: absolute;
+    top: 0;
+}
+
+img.bajaj-logo {
+    left: 30px;
+    position: absolute;
+    top: 0px;
+    width: 8%;
+}
+
+ul.exp-desc {
+    font-size: 1.5rem;
+    left: 180px;
+    position: absolute;
+    top: 20px;
+    width: 20%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 0;
+}
+
+hr.work-exp-hr {
+    bottom: 0;
+    position: absolute;
+}
+
+div.exp-detail {
+    border-left: 1px solid black;
+    height: 170px;
+    left: 500px;
+    padding: 30px 0 0 30px;
+    position: absolute;
+    top: 0px;
+    width: 50%;
+    }
+
+img.nitp-logo {
+    height: 60%;
+    left: 30px;
+    position: absolute;
+    top: 0;
+}
+
+img.lps-logo {
+    height: 90%;
+    left: 0px;
+    position: absolute;
+    top: 0;
+}
+
+img.ncrc-logo {
+    height: 60%;
+    left: 30px;
+    position: absolute;
+    top: 0;
+}
+
+div.lps-row {
+    height: 200px;
+    margin-bottom: 50px;
+    position: relative;
+    top: 120px;
+    left: 0px;
+    width: 50%;
+}
+
+ul.lps-desc {
+    font-size: 1.5rem;
+    left: 180px;
+    position: absolute;
+    top: 20px;
+    width: 50%;
+}
+
+div.ncrc-row {
+    height: 200px;
+    margin-bottom: 50px;
+    position: relative;
+    top: -130px;
+    left: 800px;
+    width: 40%;
+}
+
+ul.ncrc-desc {
+    font-size: 1.5rem;
+    left: 180px;
+    position: absolute;
+    top: 20px;
+    width: 50%;
+}
+
+div.education {
+    height: 650px;
+    position: relative;
+}
+
+div.trainings {
+    height: 250px;
+    position: relative;
+}
+
+div.training-row {
+    font-size: 1.25rem;
+    height: 150px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    position: absolute;
+    top: 100px;
+}
+
+div.bottom-container {
+    background-color: #CFF5E7;
+    height: 10px;
+    padding: 10px 0 10px 0;
+    z-index: 1;
+}
